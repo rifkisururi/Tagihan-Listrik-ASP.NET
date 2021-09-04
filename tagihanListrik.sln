@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tagihanListrik", "tagihanListrik\tagihanListrik.csproj", "{6620FC18-1BEB-40EF-9F4C-1A6FCFBC4DDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6620FC18-1BEB-40EF-9F4C-1A6FCFBC4DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6620FC18-1BEB-40EF-9F4C-1A6FCFBC4DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6620FC18-1BEB-40EF-9F4C-1A6FCFBC4DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6620FC18-1BEB-40EF-9F4C-1A6FCFBC4DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7892CA54-6E88-4F2F-8FA7-1D8F91B3777F}
+	EndGlobalSection
+EndGlobal
